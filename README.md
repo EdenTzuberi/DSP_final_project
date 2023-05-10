@@ -1,2 +1,7 @@
-# DSP_final_project
-DSP final project
+# introduction to DSP - final project
+In the project we were asked to process an image in order to reveal the alien from Mars. 
+By using DFT we found the the noise frequency.
+We designed a notch filter to elimnate the noise, passed the image through it.
+In the end we designed a system to correct the distortion,
+passed the image through it again and than we got the clean image.
+
